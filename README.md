@@ -1,3 +1,3 @@
 # python-weather-bot
 
-yet to add !!
+weather app using python/tkinter GUI and api.
